@@ -1,4 +1,13 @@
 {
   "name": "FinanceApp",
-  "displayName": "FinanceApp"
+  "displayName": "FinanceApp",
+  "platforms": ["ios", "android", "web"],
+  "version": "1.0.0",
+  "orientation": "portrait",
+  "icon": "./assets/vel.png",
+  "splash": {
+    "image": "./assets/background.png",
+    "resizeMode": "contain",
+    "backgroundColor": "#ffffff"
+  }
 }
